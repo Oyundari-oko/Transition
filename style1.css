@@ -1,0 +1,23 @@
+.durwuljin {
+  background-color: darkorchid;
+  width: 100px;
+  height: 100px;
+  transition: width 2s;
+  transition-delay: 1s;
+  transition-timing-function: ease;
+}
+.durwuljin:hover {
+  width: 500px;
+}
+
+.durwuljin2 {
+  background-color: cadetblue;
+  width: 100px;
+  height: 100px;
+  transition: width 2s;
+  transition-delay: 0s;
+  transition-timing-function: ease;
+}
+.durwuljin2:hover {
+  width: 500px;
+}
